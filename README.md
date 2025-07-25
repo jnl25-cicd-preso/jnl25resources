@@ -39,5 +39,5 @@ Shoutout to [**Deployment Theory**](https://github.com/deploymenttheory) for pio
 
 ---
 
-🛠 Built by sysadmins for sysadmins.  
-🧑‍💻 Contributions welcome — PRs, issues, and suggestions encouraged!
+🛠 Built by Jamf Services!
+🧑‍💻 Get in contact through your jamf rep today...
